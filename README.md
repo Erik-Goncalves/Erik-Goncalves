@@ -9,6 +9,9 @@ Formado em Análise e Desenvolvimento de sistemas - 2017, especialista em Busine
 
 Atualmente estou expandindo minha atuação utilizando conceitos de engenharia e Inteligência Artificial, buscando construir soluções que transformem dados em decisões estratégicas e gerem impacto real para os negócios.
 
+**Projetos**
+https://github.com/Erik-Goncalves/SuperstoreSalesPerformance
+
 **🚀 Áreas de Atuação**
 - Business Intelligence (BI).
 - Análise de Dados.
